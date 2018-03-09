@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/MyMall-Manager-Web" />
+    <file type="web" url="file://$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Service" />
+    <file type="web" url="file://$PROJECT_DIR$/MyMall-Utils" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/MyMall-Parent/pom.xml" />
+        <option value="$PROJECT_DIR$/MyMall-Utils/pom.xml" />
+        <option value="$PROJECT_DIR$/MyMall-Manager/pom.xml" />
+        <option value="$PROJECT_DIR$/generatorSqlmapCustom/pom.xml" />
+        <option value="$PROJECT_DIR$/MyMall-Parent/MyMall-Manager-Web/pom.xml" />
+        <option value="$PROJECT_DIR$/MyMall-Manager-Web/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

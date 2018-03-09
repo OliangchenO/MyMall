@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="MyMall-Manager-Service:war">
+    <output-path>$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Service/target</output-path>
+    <root id="archive" name="MyMall-Manager-Service-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="MyMall-Manager-Service:war exploded" />
+    </root>
+  </artifact>
+</component>

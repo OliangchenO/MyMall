@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="generatorSqlmapCustom" />
+        <module name="MyMall-Manager-Interface" />
+        <module name="MyMall-Manager-Mapper" />
+        <module name="MyMall-Manager-Pojo" />
+        <module name="MyMall-Manager-Service" />
+        <module name="MyMall-Manager-Web" />
+        <module name="MyMall-Utils" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="generatorSqlmapCustom" target="1.8" />
+      <module name="MyMall-Manager" target="1.8" />
+      <module name="MyMall-Manager-Interface" target="1.8" />
+      <module name="MyMall-Manager-Mapper" target="1.8" />
+      <module name="MyMall-Manager-Pojo" target="1.8" />
+      <module name="MyMall-Manager-Service" target="1.8" />
+      <module name="MyMall-Manager-Web" target="1.8" />
+      <module name="MyMall-Parent" target="1.8" />
+      <module name="MyMall-Utils" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,1119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a5fab1f8-7b40-4499-8820-1da81f71eea9" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/MyMall_Manager_Service_war.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/MyMall_Manager_Service_war_exploded.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/MyMall_Manager_Web_war.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/MyMall_Manager_Web_war_exploded.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/MyMall_Utils_war.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/MyMall_Utils_war_exploded.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__c3p0_c3p0_0_9_1_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_1_1_4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_dubbo_2_5_6.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_3_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_0_9_5.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_miemiedev_mybatis_paginator_1_2_15.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_pagehelper_pagehelper_4_1_6.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_sgroschupf_zkclient_0_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_18_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_inject_extensions_guice_multibindings_3_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_inject_guice_3_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_hazelcast_hazelcast_3_7_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_qiniu_happy_dns_java_0_1_6.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_qiniu_qiniu_java_sdk_7_2_11.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okhttp3_okhttp_3_9_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okio_okio_1_13_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_9_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_9.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_3_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_1_3_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_net_commons_net_3_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_3_10_5_Final.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_core_2_7_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_schema_2_7_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spi_2_7_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spring_web_2_7_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger2_2_7_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger_common_2_7_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger_ui_2_7_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_annotations_1_5_13.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_models_1_5_13.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jline_jline_0_9_94.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__joda_time_joda_time_2_9_9.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jstl_jstl_1_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_3_8_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_16.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_44.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_6_14.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_ehcache_ehcache_core_2_6_11.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_3_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_4_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_6.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_all_1_4_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_aspectj_1_4_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_cache_1_4_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_config_core_1_4_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_config_ogdl_1_4_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_core_1_4_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_crypto_cipher_1_4_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_crypto_core_1_4_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_crypto_hash_1_4_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_ehcache_1_4_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_event_1_4_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_guice_1_4_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_hazelcast_1_4_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_lang_1_4_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_quartz_1_4_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_spring_1_4_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_web_1_4_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_4_10.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjrt_1_8_9.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_9.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_21_0_GA.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_json_json_20171018.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mapstruct_mapstruct_1_1_0_Final.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_4_5.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opensymphony_quartz_quartz_1_6_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_quartz_scheduler_quartz_2_2_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_reflections_reflections_0_9_11.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_6_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_7.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_8_0_alpha2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_core_1_2_0_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_metadata_1_2_0_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_3_12_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aspects_4_3_12_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_3_12_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_3_12_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_4_3_12_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_3_12_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_3_12_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_3_12_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jms_4_3_12_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_messaging_4_3_12_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_3_12_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_3_12_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_12_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__redis_clients_jedis_2_9_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager-Web/MyMall-Manager-Web.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager-Web/pom.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager-Web/src/main/webapp/WEB-INF/applicationContext.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager-Web/src/main/webapp/WEB-INF/log4j.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager-Web/src/main/webapp/WEB-INF/web.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Interface/MyMall-Manager-Interface.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Interface/pom.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Interface/src/main/java/com/lc/App.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Interface/src/test/java/com/lc/AppTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Mapper/MyMall-Manager-Mapper.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Mapper/pom.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Mapper/src/main/java/com/lc/manager/mapper/TbAddressMapper.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Mapper/src/main/java/com/lc/manager/mapper/TbAddressMapper.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Mapper/src/main/java/com/lc/manager/mapper/TbBaseMapper.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Mapper/src/main/java/com/lc/manager/mapper/TbBaseMapper.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Mapper/src/main/java/com/lc/manager/mapper/TbContentCategoryMapper.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Mapper/src/main/java/com/lc/manager/mapper/TbContentCategoryMapper.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Mapper/src/main/java/com/lc/manager/mapper/TbContentMapper.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Mapper/src/main/java/com/lc/manager/mapper/TbContentMapper.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Mapper/src/main/java/com/lc/manager/mapper/TbImageMapper.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Mapper/src/main/java/com/lc/manager/mapper/TbImageMapper.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Mapper/src/main/java/com/lc/manager/mapper/TbItemCatMapper.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Mapper/src/main/java/com/lc/manager/mapper/TbItemCatMapper.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Mapper/src/main/java/com/lc/manager/mapper/TbItemDescMapper.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Mapper/src/main/java/com/lc/manager/mapper/TbItemDescMapper.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Mapper/src/main/java/com/lc/manager/mapper/TbItemMapper.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Mapper/src/main/java/com/lc/manager/mapper/TbItemMapper.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Mapper/src/main/java/com/lc/manager/mapper/TbItemParamItemMapper.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Mapper/src/main/java/com/lc/manager/mapper/TbItemParamItemMapper.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Mapper/src/main/java/com/lc/manager/mapper/TbItemParamMapper.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Mapper/src/main/java/com/lc/manager/mapper/TbItemParamMapper.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Mapper/src/main/java/com/lc/manager/mapper/TbLogMapper.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Mapper/src/main/java/com/lc/manager/mapper/TbLogMapper.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Mapper/src/main/java/com/lc/manager/mapper/TbMemberMapper.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Mapper/src/main/java/com/lc/manager/mapper/TbMemberMapper.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Mapper/src/main/java/com/lc/manager/mapper/TbOrderItemMapper.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Mapper/src/main/java/com/lc/manager/mapper/TbOrderItemMapper.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Mapper/src/main/java/com/lc/manager/mapper/TbOrderMapper.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Mapper/src/main/java/com/lc/manager/mapper/TbOrderMapper.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Mapper/src/main/java/com/lc/manager/mapper/TbOrderShippingMapper.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Mapper/src/main/java/com/lc/manager/mapper/TbOrderShippingMapper.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Mapper/src/main/java/com/lc/manager/mapper/TbPermissionMapper.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Mapper/src/main/java/com/lc/manager/mapper/TbPermissionMapper.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Mapper/src/main/java/com/lc/manager/mapper/TbRoleMapper.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Mapper/src/main/java/com/lc/manager/mapper/TbRoleMapper.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Mapper/src/main/java/com/lc/manager/mapper/TbRolePermMapper.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Mapper/src/main/java/com/lc/manager/mapper/TbRolePermMapper.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Mapper/src/main/java/com/lc/manager/mapper/TbShiroFilterMapper.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Mapper/src/main/java/com/lc/manager/mapper/TbShiroFilterMapper.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Mapper/src/main/java/com/lc/manager/mapper/TbThanksMapper.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Mapper/src/main/java/com/lc/manager/mapper/TbThanksMapper.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Mapper/src/main/java/com/lc/manager/mapper/TbUserMapper.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Mapper/src/main/java/com/lc/manager/mapper/TbUserMapper.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/MyMall-Manager-Pojo.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/pom.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/src/main/java/com/lc/manager/pojo/TbAddress.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/src/main/java/com/lc/manager/pojo/TbAddressExample.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/src/main/java/com/lc/manager/pojo/TbBase.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/src/main/java/com/lc/manager/pojo/TbBaseExample.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/src/main/java/com/lc/manager/pojo/TbContent.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/src/main/java/com/lc/manager/pojo/TbContentCategory.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/src/main/java/com/lc/manager/pojo/TbContentCategoryExample.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/src/main/java/com/lc/manager/pojo/TbContentExample.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/src/main/java/com/lc/manager/pojo/TbImage.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/src/main/java/com/lc/manager/pojo/TbImageExample.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/src/main/java/com/lc/manager/pojo/TbItem.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/src/main/java/com/lc/manager/pojo/TbItemCat.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/src/main/java/com/lc/manager/pojo/TbItemCatExample.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/src/main/java/com/lc/manager/pojo/TbItemDesc.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/src/main/java/com/lc/manager/pojo/TbItemDescExample.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/src/main/java/com/lc/manager/pojo/TbItemExample.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/src/main/java/com/lc/manager/pojo/TbItemParam.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/src/main/java/com/lc/manager/pojo/TbItemParamExample.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/src/main/java/com/lc/manager/pojo/TbItemParamItem.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/src/main/java/com/lc/manager/pojo/TbItemParamItemExample.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/src/main/java/com/lc/manager/pojo/TbLog.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/src/main/java/com/lc/manager/pojo/TbLogExample.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/src/main/java/com/lc/manager/pojo/TbMember.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/src/main/java/com/lc/manager/pojo/TbMemberExample.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/src/main/java/com/lc/manager/pojo/TbOrder.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/src/main/java/com/lc/manager/pojo/TbOrderExample.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/src/main/java/com/lc/manager/pojo/TbOrderItem.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/src/main/java/com/lc/manager/pojo/TbOrderItemExample.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/src/main/java/com/lc/manager/pojo/TbOrderShipping.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/src/main/java/com/lc/manager/pojo/TbOrderShippingExample.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/src/main/java/com/lc/manager/pojo/TbPermission.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/src/main/java/com/lc/manager/pojo/TbPermissionExample.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/src/main/java/com/lc/manager/pojo/TbRole.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/src/main/java/com/lc/manager/pojo/TbRoleExample.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/src/main/java/com/lc/manager/pojo/TbRolePerm.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/src/main/java/com/lc/manager/pojo/TbRolePermExample.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/src/main/java/com/lc/manager/pojo/TbShiroFilter.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/src/main/java/com/lc/manager/pojo/TbShiroFilterExample.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/src/main/java/com/lc/manager/pojo/TbThanks.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/src/main/java/com/lc/manager/pojo/TbThanksExample.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/src/main/java/com/lc/manager/pojo/TbUser.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/src/main/java/com/lc/manager/pojo/TbUserExample.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/target/MyMall-Manager-Pojo-1.0-SNAPSHOT.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/target/classes/com/lc/App.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/target/classes/com/lc/manager/pojo/TbAddress.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/target/classes/com/lc/manager/pojo/TbAddressExample$Criteria.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/target/classes/com/lc/manager/pojo/TbAddressExample$Criterion.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/target/classes/com/lc/manager/pojo/TbAddressExample$GeneratedCriteria.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/target/classes/com/lc/manager/pojo/TbAddressExample.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/target/classes/com/lc/manager/pojo/TbBase.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/target/classes/com/lc/manager/pojo/TbBaseExample$Criteria.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/target/classes/com/lc/manager/pojo/TbBaseExample$Criterion.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/target/classes/com/lc/manager/pojo/TbBaseExample$GeneratedCriteria.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/target/classes/com/lc/manager/pojo/TbBaseExample.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/target/classes/com/lc/manager/pojo/TbContent.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/target/classes/com/lc/manager/pojo/TbContentCategory.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/target/classes/com/lc/manager/pojo/TbContentCategoryExample$Criteria.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/target/classes/com/lc/manager/pojo/TbContentCategoryExample$Criterion.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/target/classes/com/lc/manager/pojo/TbContentCategoryExample$GeneratedCriteria.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/target/classes/com/lc/manager/pojo/TbContentCategoryExample.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/target/classes/com/lc/manager/pojo/TbContentExample$Criteria.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/target/classes/com/lc/manager/pojo/TbContentExample$Criterion.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/target/classes/com/lc/manager/pojo/TbContentExample$GeneratedCriteria.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/target/classes/com/lc/manager/pojo/TbContentExample.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/target/classes/com/lc/manager/pojo/TbImage.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/target/classes/com/lc/manager/pojo/TbImageExample$Criteria.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/target/classes/com/lc/manager/pojo/TbImageExample$Criterion.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/target/classes/com/lc/manager/pojo/TbImageExample$GeneratedCriteria.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/target/classes/com/lc/manager/pojo/TbImageExample.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/target/classes/com/lc/manager/pojo/TbItem.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/target/classes/com/lc/manager/pojo/TbItemCat.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/target/classes/com/lc/manager/pojo/TbItemCatExample$Criteria.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/target/classes/com/lc/manager/pojo/TbItemCatExample$Criterion.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/target/classes/com/lc/manager/pojo/TbItemCatExample$GeneratedCriteria.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/target/classes/com/lc/manager/pojo/TbItemCatExample.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/target/classes/com/lc/manager/pojo/TbItemDesc.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/target/classes/com/lc/manager/pojo/TbItemDescExample$Criteria.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/target/classes/com/lc/manager/pojo/TbItemDescExample$Criterion.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/target/classes/com/lc/manager/pojo/TbItemDescExample$GeneratedCriteria.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/target/classes/com/lc/manager/pojo/TbItemDescExample.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/target/classes/com/lc/manager/pojo/TbItemExample$Criteria.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/target/classes/com/lc/manager/pojo/TbItemExample$Criterion.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/target/classes/com/lc/manager/pojo/TbItemExample$GeneratedCriteria.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/target/classes/com/lc/manager/pojo/TbItemExample.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/target/classes/com/lc/manager/pojo/TbItemParam.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/target/classes/com/lc/manager/pojo/TbItemParamExample$Criteria.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/target/classes/com/lc/manager/pojo/TbItemParamExample$Criterion.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/target/classes/com/lc/manager/pojo/TbItemParamExample$GeneratedCriteria.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/target/classes/com/lc/manager/pojo/TbItemParamExample.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/target/classes/com/lc/manager/pojo/TbItemParamItem.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/target/classes/com/lc/manager/pojo/TbItemParamItemExample$Criteria.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/target/classes/com/lc/manager/pojo/TbItemParamItemExample$Criterion.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/target/classes/com/lc/manager/pojo/TbItemParamItemExample$GeneratedCriteria.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/target/classes/com/lc/manager/pojo/TbItemParamItemExample.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/target/classes/com/lc/manager/pojo/TbLog.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/target/classes/com/lc/manager/pojo/TbLogExample$Criteria.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/target/classes/com/lc/manager/pojo/TbLogExample$Criterion.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/target/classes/com/lc/manager/pojo/TbLogExample$GeneratedCriteria.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/target/classes/com/lc/manager/pojo/TbLogExample.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/target/classes/com/lc/manager/pojo/TbMember.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/target/classes/com/lc/manager/pojo/TbMemberExample$Criteria.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/target/classes/com/lc/manager/pojo/TbMemberExample$Criterion.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/target/classes/com/lc/manager/pojo/TbMemberExample$GeneratedCriteria.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/target/classes/com/lc/manager/pojo/TbMemberExample.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/target/classes/com/lc/manager/pojo/TbOrder.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/target/classes/com/lc/manager/pojo/TbOrderExample$Criteria.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/target/classes/com/lc/manager/pojo/TbOrderExample$Criterion.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/target/classes/com/lc/manager/pojo/TbOrderExample$GeneratedCriteria.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/target/classes/com/lc/manager/pojo/TbOrderExample.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/target/classes/com/lc/manager/pojo/TbOrderItem.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/target/classes/com/lc/manager/pojo/TbOrderItemExample$Criteria.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/target/classes/com/lc/manager/pojo/TbOrderItemExample$Criterion.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/target/classes/com/lc/manager/pojo/TbOrderItemExample$GeneratedCriteria.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/target/classes/com/lc/manager/pojo/TbOrderItemExample.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/target/classes/com/lc/manager/pojo/TbOrderShipping.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/target/classes/com/lc/manager/pojo/TbOrderShippingExample$Criteria.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/target/classes/com/lc/manager/pojo/TbOrderShippingExample$Criterion.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/target/classes/com/lc/manager/pojo/TbOrderShippingExample$GeneratedCriteria.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/target/classes/com/lc/manager/pojo/TbOrderShippingExample.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/target/classes/com/lc/manager/pojo/TbPermission.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/target/classes/com/lc/manager/pojo/TbPermissionExample$Criteria.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/target/classes/com/lc/manager/pojo/TbPermissionExample$Criterion.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/target/classes/com/lc/manager/pojo/TbPermissionExample$GeneratedCriteria.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/target/classes/com/lc/manager/pojo/TbPermissionExample.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/target/classes/com/lc/manager/pojo/TbRole.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/target/classes/com/lc/manager/pojo/TbRoleExample$Criteria.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/target/classes/com/lc/manager/pojo/TbRoleExample$Criterion.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/target/classes/com/lc/manager/pojo/TbRoleExample$GeneratedCriteria.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/target/classes/com/lc/manager/pojo/TbRoleExample.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/target/classes/com/lc/manager/pojo/TbRolePerm.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/target/classes/com/lc/manager/pojo/TbRolePermExample$Criteria.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/target/classes/com/lc/manager/pojo/TbRolePermExample$Criterion.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/target/classes/com/lc/manager/pojo/TbRolePermExample$GeneratedCriteria.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/target/classes/com/lc/manager/pojo/TbRolePermExample.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/target/classes/com/lc/manager/pojo/TbShiroFilter.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/target/classes/com/lc/manager/pojo/TbShiroFilterExample$Criteria.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/target/classes/com/lc/manager/pojo/TbShiroFilterExample$Criterion.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/target/classes/com/lc/manager/pojo/TbShiroFilterExample$GeneratedCriteria.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/target/classes/com/lc/manager/pojo/TbShiroFilterExample.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/target/classes/com/lc/manager/pojo/TbThanks.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/target/classes/com/lc/manager/pojo/TbThanksExample$Criteria.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/target/classes/com/lc/manager/pojo/TbThanksExample$Criterion.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/target/classes/com/lc/manager/pojo/TbThanksExample$GeneratedCriteria.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/target/classes/com/lc/manager/pojo/TbThanksExample.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/target/classes/com/lc/manager/pojo/TbUser.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/target/classes/com/lc/manager/pojo/TbUserExample$Criteria.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/target/classes/com/lc/manager/pojo/TbUserExample$Criterion.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/target/classes/com/lc/manager/pojo/TbUserExample$GeneratedCriteria.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/target/classes/com/lc/manager/pojo/TbUserExample.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/target/maven-archiver/pom.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/target/surefire-reports/TEST-com.lc.AppTest.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/target/surefire-reports/com.lc.AppTest.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/target/test-classes/com/lc/AppTest.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Service/MyMall-Manager-Service.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Service/pom.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Service/src/main/webapp/WEB-INF/applicationContext.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Service/src/main/webapp/WEB-INF/log4j.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Service/src/main/webapp/WEB-INF/web.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/pom.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/src/main/java/com/lc/App.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Manager/src/test/java/com/lc/AppTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Parent/MyMall-Parent.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Parent/pom.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Parent/src/main/java/com/lc/App.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Parent/src/test/java/com/lc/AppTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Utils/MyMall-Utils.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Utils/pom.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Utils/src/main/jetspeed/web.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Utils/src/main/webapp/WEB-INF/portlet.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Utils/src/main/webapp/WEB-INF/tld/portlet.tld" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Utils/src/main/webapp/WEB-INF/web.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Utils/src/main/webapp/help.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Utils/src/main/webapp/maximized.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Utils/src/main/webapp/normal.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Utils/target/MyMall-Utils-1.0-SNAPSHOT.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Utils/target/maven-archiver/pom.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Utils/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MyMall-Utils/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/generatorSqlmapCustom/generatorSqlmapCustom.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/generatorSqlmapCustom/pom.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/generatorSqlmapCustom/src/com/lc/manager/mapper/TbAddressMapper.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/generatorSqlmapCustom/src/com/lc/manager/mapper/TbAddressMapper.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/generatorSqlmapCustom/src/com/lc/manager/mapper/TbBaseMapper.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/generatorSqlmapCustom/src/com/lc/manager/mapper/TbBaseMapper.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/generatorSqlmapCustom/src/com/lc/manager/mapper/TbContentCategoryMapper.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/generatorSqlmapCustom/src/com/lc/manager/mapper/TbContentCategoryMapper.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/generatorSqlmapCustom/src/com/lc/manager/mapper/TbContentMapper.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/generatorSqlmapCustom/src/com/lc/manager/mapper/TbContentMapper.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/generatorSqlmapCustom/src/com/lc/manager/mapper/TbImageMapper.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/generatorSqlmapCustom/src/com/lc/manager/mapper/TbImageMapper.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/generatorSqlmapCustom/src/com/lc/manager/mapper/TbItemCatMapper.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/generatorSqlmapCustom/src/com/lc/manager/mapper/TbItemCatMapper.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/generatorSqlmapCustom/src/com/lc/manager/mapper/TbItemDescMapper.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/generatorSqlmapCustom/src/com/lc/manager/mapper/TbItemDescMapper.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/generatorSqlmapCustom/src/com/lc/manager/mapper/TbItemMapper.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/generatorSqlmapCustom/src/com/lc/manager/mapper/TbItemMapper.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/generatorSqlmapCustom/src/com/lc/manager/mapper/TbItemParamItemMapper.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/generatorSqlmapCustom/src/com/lc/manager/mapper/TbItemParamItemMapper.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/generatorSqlmapCustom/src/com/lc/manager/mapper/TbItemParamMapper.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/generatorSqlmapCustom/src/com/lc/manager/mapper/TbItemParamMapper.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/generatorSqlmapCustom/src/com/lc/manager/mapper/TbLogMapper.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/generatorSqlmapCustom/src/com/lc/manager/mapper/TbLogMapper.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/generatorSqlmapCustom/src/com/lc/manager/mapper/TbMemberMapper.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/generatorSqlmapCustom/src/com/lc/manager/mapper/TbMemberMapper.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/generatorSqlmapCustom/src/com/lc/manager/mapper/TbOrderItemMapper.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/generatorSqlmapCustom/src/com/lc/manager/mapper/TbOrderItemMapper.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/generatorSqlmapCustom/src/com/lc/manager/mapper/TbOrderMapper.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/generatorSqlmapCustom/src/com/lc/manager/mapper/TbOrderMapper.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/generatorSqlmapCustom/src/com/lc/manager/mapper/TbOrderShippingMapper.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/generatorSqlmapCustom/src/com/lc/manager/mapper/TbOrderShippingMapper.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/generatorSqlmapCustom/src/com/lc/manager/mapper/TbPermissionMapper.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/generatorSqlmapCustom/src/com/lc/manager/mapper/TbPermissionMapper.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/generatorSqlmapCustom/src/com/lc/manager/mapper/TbRoleMapper.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/generatorSqlmapCustom/src/com/lc/manager/mapper/TbRoleMapper.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/generatorSqlmapCustom/src/com/lc/manager/mapper/TbRolePermMapper.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/generatorSqlmapCustom/src/com/lc/manager/mapper/TbRolePermMapper.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/generatorSqlmapCustom/src/com/lc/manager/mapper/TbShiroFilterMapper.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/generatorSqlmapCustom/src/com/lc/manager/mapper/TbShiroFilterMapper.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/generatorSqlmapCustom/src/com/lc/manager/mapper/TbThanksMapper.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/generatorSqlmapCustom/src/com/lc/manager/mapper/TbThanksMapper.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/generatorSqlmapCustom/src/com/lc/manager/mapper/TbUserMapper.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/generatorSqlmapCustom/src/com/lc/manager/mapper/TbUserMapper.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/generatorSqlmapCustom/src/com/lc/manager/pojo/TbAddress.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/generatorSqlmapCustom/src/com/lc/manager/pojo/TbAddressExample.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/generatorSqlmapCustom/src/com/lc/manager/pojo/TbBase.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/generatorSqlmapCustom/src/com/lc/manager/pojo/TbBaseExample.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/generatorSqlmapCustom/src/com/lc/manager/pojo/TbContent.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/generatorSqlmapCustom/src/com/lc/manager/pojo/TbContentCategory.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/generatorSqlmapCustom/src/com/lc/manager/pojo/TbContentCategoryExample.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/generatorSqlmapCustom/src/com/lc/manager/pojo/TbContentExample.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/generatorSqlmapCustom/src/com/lc/manager/pojo/TbImage.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/generatorSqlmapCustom/src/com/lc/manager/pojo/TbImageExample.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/generatorSqlmapCustom/src/com/lc/manager/pojo/TbItem.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/generatorSqlmapCustom/src/com/lc/manager/pojo/TbItemCat.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/generatorSqlmapCustom/src/com/lc/manager/pojo/TbItemCatExample.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/generatorSqlmapCustom/src/com/lc/manager/pojo/TbItemDesc.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/generatorSqlmapCustom/src/com/lc/manager/pojo/TbItemDescExample.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/generatorSqlmapCustom/src/com/lc/manager/pojo/TbItemExample.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/generatorSqlmapCustom/src/com/lc/manager/pojo/TbItemParam.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/generatorSqlmapCustom/src/com/lc/manager/pojo/TbItemParamExample.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/generatorSqlmapCustom/src/com/lc/manager/pojo/TbItemParamItem.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/generatorSqlmapCustom/src/com/lc/manager/pojo/TbItemParamItemExample.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/generatorSqlmapCustom/src/com/lc/manager/pojo/TbLog.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/generatorSqlmapCustom/src/com/lc/manager/pojo/TbLogExample.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/generatorSqlmapCustom/src/com/lc/manager/pojo/TbMember.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/generatorSqlmapCustom/src/com/lc/manager/pojo/TbMemberExample.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/generatorSqlmapCustom/src/com/lc/manager/pojo/TbOrder.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/generatorSqlmapCustom/src/com/lc/manager/pojo/TbOrderExample.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/generatorSqlmapCustom/src/com/lc/manager/pojo/TbOrderItem.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/generatorSqlmapCustom/src/com/lc/manager/pojo/TbOrderItemExample.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/generatorSqlmapCustom/src/com/lc/manager/pojo/TbOrderShipping.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/generatorSqlmapCustom/src/com/lc/manager/pojo/TbOrderShippingExample.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/generatorSqlmapCustom/src/com/lc/manager/pojo/TbPermission.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/generatorSqlmapCustom/src/com/lc/manager/pojo/TbPermissionExample.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/generatorSqlmapCustom/src/com/lc/manager/pojo/TbRole.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/generatorSqlmapCustom/src/com/lc/manager/pojo/TbRoleExample.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/generatorSqlmapCustom/src/com/lc/manager/pojo/TbRolePerm.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/generatorSqlmapCustom/src/com/lc/manager/pojo/TbRolePermExample.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/generatorSqlmapCustom/src/com/lc/manager/pojo/TbShiroFilter.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/generatorSqlmapCustom/src/com/lc/manager/pojo/TbShiroFilterExample.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/generatorSqlmapCustom/src/com/lc/manager/pojo/TbThanks.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/generatorSqlmapCustom/src/com/lc/manager/pojo/TbThanksExample.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/generatorSqlmapCustom/src/com/lc/manager/pojo/TbUser.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/generatorSqlmapCustom/src/com/lc/manager/pojo/TbUserExample.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/generatorSqlmapCustom/src/main/resources/generatorConfig.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/generatorSqlmapCustom/src/test/java/com/lc/AppTest.java" />
+    </list>
+    <ignored path="$PROJECT_DIR$/MyMall-Parent/target/" />
+    <ignored path="$PROJECT_DIR$/MyMall-Utils/target/" />
+    <ignored path="$PROJECT_DIR$/MyMall-Manager/target/" />
+    <ignored path="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/target/" />
+    <ignored path="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Mapper/target/" />
+    <ignored path="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Service/target/" />
+    <ignored path="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Web/target/" />
+    <ignored path="$PROJECT_DIR$/generatorSqlmapCustom/target/" />
+    <ignored path="$PROJECT_DIR$/MyMall-Parent/MyMall-Manager-Web/target/" />
+    <ignored path="$PROJECT_DIR$/MyMall-Manager-Web/target/" />
+    <ignored path="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Interface/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Mapper/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="39" column="42" lean-forward="false" selection-start-line="39" selection-start-column="32" selection-end-line="39" selection-end-column="42" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TbItemParamItemExample.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/generatorSqlmapCustom/src/com/lc/manager/pojo/TbItemParamItemExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="27" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MyMall-Manager-Web/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="475">
+              <caret line="138" column="37" lean-forward="false" selection-start-line="138" selection-start-column="32" selection-end-line="138" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="XML Properties File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/MyMall-Parent/pom.xml" />
+        <option value="$PROJECT_DIR$/MyMall-Utils/pom.xml" />
+        <option value="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/pom.xml" />
+        <option value="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Web/pom.xml" />
+        <option value="$PROJECT_DIR$/generatorSqlmapCustom/pom.xml" />
+        <option value="$PROJECT_DIR$/generatorSqlmapCustom/src/main/resources/generatorConfig.xml" />
+        <option value="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Interface/pom.xml" />
+        <option value="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Service/pom.xml" />
+        <option value="$PROJECT_DIR$/MyMall-Parent/MyMall-Manager-Web/pom.xml" />
+        <option value="$PROJECT_DIR$/MyMall-Manager/pom.xml" />
+        <option value="$PROJECT_DIR$/MyMall-Manager-Web/pom.xml" />
+        <option value="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Mapper/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/软件/apache-maven-3.0.4" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="generatorSqlmapCustom" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="MyMall-Manager-Interface" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="MyMall-Manager-Pojo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="MyMall-Manager-Pojo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="MyMall-Manager-Web" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="MyMall-Manager-Web" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="90" />
+    <option name="y" value="47" />
+    <option name="width" value="1720" />
+    <option name="height" value="970" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="MyMall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyMall-Manager" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyMall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyMall-Manager" type="462c0819:PsiDirectoryNode" />
+              <item name="MyMall-Manager-Interface" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyMall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyMall-Manager" type="462c0819:PsiDirectoryNode" />
+              <item name="MyMall-Manager-Mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyMall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyMall-Manager" type="462c0819:PsiDirectoryNode" />
+              <item name="MyMall-Manager-Mapper" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyMall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyMall-Manager" type="462c0819:PsiDirectoryNode" />
+              <item name="MyMall-Manager-Mapper" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyMall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyMall-Manager" type="462c0819:PsiDirectoryNode" />
+              <item name="MyMall-Manager-Mapper" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyMall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyMall-Manager" type="462c0819:PsiDirectoryNode" />
+              <item name="MyMall-Manager-Mapper" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\InterviewWorkspace\MyMall\" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\InterviewWorkspace\MyMall\MyMall-Manager\MyMall-Manager-Pojo\src\main\java\com\lc\manager\pojo" />
+      <recent name="D:\InterviewWorkspace\MyMall\MyMall-Manager\MyMall-Manager-Mapper\src\main\java\com\lc\manager\mapper" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a5fab1f8-7b40-4499-8820-1da81f71eea9" name="Default" comment="" />
+      <created>1520558180622</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1520558180622</updated>
+      <workItem from="1520558184240" duration="7843000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="7843000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3277635" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293011" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293011" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32974428" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/MyMall-Parent/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="38" lean-forward="false" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyMall-Utils/src/main/java/com/lc/MyPortlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="69" column="8" lean-forward="false" selection-start-line="69" selection-start-column="8" selection-end-line="69" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyMall-Utils/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generatorSqlmapCustom/src/main/resources.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generatorSqlmapCustom/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="19" column="11" lean-forward="false" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generatorSqlmapCustom/src/main/resources/generatorConfig.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="26" lean-forward="false" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Mapper/src/main/java/com/lc/manager/mapper/TbRoleMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/src/main/java/com/lc/manager/pojo/TbUserExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.5/mybatis-3.4.5.jar!/org/apache/ibatis/annotations/Param.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="16" column="18" lean-forward="false" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyMall-Manager-Web/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="116" column="0" lean-forward="false" selection-start-line="116" selection-start-column="0" selection-end-line="116" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Interface/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1083">
+          <caret line="64" column="0" lean-forward="false" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://MAVEN/com.lc:MyMall-Manager-Web:1.0-SNAPSHOT">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MAVEN</ID>
+          <OriginalElement>com.lc:MyMall-Manager-Web:1.0-SNAPSHOT</OriginalElement>
+          <nodes>
+            <node x="0.0" y="0.0">com.lc:MyMall-Manager-Web:1.0-SNAPSHOT</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="-5.0" y="34.5" />
+          <SelectedNodes>
+            <node>com.lc:MyMall-Manager-Web:1.0-SNAPSHOT</node>
+          </SelectedNodes>
+          <Categories />
+          <VISIBILITY>All</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyMall-Manager/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="665">
+          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generatorSqlmapCustom/src/com/lc/manager/mapper/TbAddressMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="8" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Mapper/src/main/java/com/lc/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Mapper/src/main/java/com/lc/manager/mapper/TbAddressMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="10" column="35" lean-forward="false" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generatorSqlmapCustom/src/com/lc/manager/pojo/TbAddress.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="27" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/src/main/java/com/lc/manager/pojo/TbAddress.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/src/test/java/com/lc/AppTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Mapper/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="39" column="42" lean-forward="false" selection-start-line="39" selection-start-column="32" selection-end-line="39" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generatorSqlmapCustom/src/com/lc/manager/pojo/TbItemParamItemExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="27" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyMall-Manager-Web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="138" column="37" lean-forward="false" selection-start-line="138" selection-start-column="32" selection-end-line="138" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>MyMall-Parent</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.23793103" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

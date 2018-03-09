@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyMall-Manager/MyMall-Manager.iml" filepath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Interface/MyMall-Manager-Interface.iml" filepath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Interface/MyMall-Manager-Interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Mapper/MyMall-Manager-Mapper.iml" filepath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Mapper/MyMall-Manager-Mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/MyMall-Manager-Pojo.iml" filepath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Pojo/MyMall-Manager-Pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Service/MyMall-Manager-Service.iml" filepath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Service/MyMall-Manager-Service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyMall-Manager-Web/MyMall-Manager-Web.iml" filepath="$PROJECT_DIR$/MyMall-Manager-Web/MyMall-Manager-Web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyMall-Parent/MyMall-Parent.iml" filepath="$PROJECT_DIR$/MyMall-Parent/MyMall-Parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyMall-Utils/MyMall-Utils.iml" filepath="$PROJECT_DIR$/MyMall-Utils/MyMall-Utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/generatorSqlmapCustom/generatorSqlmapCustom.iml" filepath="$PROJECT_DIR$/generatorSqlmapCustom/generatorSqlmapCustom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Interface/src/main/main.iml" filepath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Interface/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Interface/src/test/test.iml" filepath="$PROJECT_DIR$/MyMall-Manager/MyMall-Manager-Interface/src/test/test.iml" />
+    </modules>
+  </component>
+</project>
