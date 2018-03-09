@@ -3,6 +3,8 @@ package com.lc.manager.mapper;
 import com.lc.manager.pojo.TbUser;
 import com.lc.manager.pojo.TbUserExample;
 import java.util.List;
+import java.util.Set;
+
 import org.apache.ibatis.annotations.Param;
 
 public interface TbUserMapper {
@@ -27,4 +29,10 @@ public interface TbUserMapper {
     int updateByPrimaryKeySelective(TbUser record);
 
     int updateByPrimaryKey(TbUser record);
+
+    Set<String> getRoles(@Param("username") String username);
+
+    Set<String> getPermissions(@Param("username") String username);
+
+    List<String> getPermsByRoleId(@Param("id") int id);
 }

@@ -27,7 +27,6 @@ com\lc\manager\pojo\TbThanksExample.class
 com\lc\manager\pojo\TbItemCatExample$Criteria.class
 com\lc\manager\pojo\TbContentExample$Criteria.class
 com\lc\manager\pojo\TbMemberExample$Criterion.class
-com\lc\App.class
 com\lc\manager\pojo\TbContentCategoryExample$Criterion.class
 com\lc\manager\pojo\TbBase.class
 com\lc\manager\pojo\TbBaseExample$Criteria.class
