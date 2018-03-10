@@ -17,6 +17,6 @@
     <dubbo:protocol name="dubbo" port="20880" />
     <dubbo:registry address="zookeeper://127.0.0.1:2181"/>
     <!-- 声明需要暴露的服务接口 -->
-    <dubbo:service interface="com.lc.manager.service.UserService" ref="userService" timeout="10000"/>
-    <dubbo:service interface="com.lc.manager.service.SystemService" ref="systemService" timeout="10000"/>
+    <dubbo:service interface="com.lc.manager.service.UserService" ref="userServiceImpl" timeout="10000"/>
+    <dubbo:service interface="com.lc.manager.service.SystemService" ref="systemServiceImpl" timeout="10000"/>
 </beans>
