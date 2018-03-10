@@ -13,6 +13,8 @@
     <!-- 启动对@AspectJ注解的支持 -->
     <aop:aspectj-autoproxy/>
 
+    <mvc:annotation-driven/>
+
     <!-- task任务扫描注解 -->
     <task:annotation-driven/>
 
