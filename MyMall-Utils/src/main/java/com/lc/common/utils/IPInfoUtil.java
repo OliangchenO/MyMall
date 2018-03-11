@@ -16,7 +16,7 @@ public class IPInfoUtil {
     /**
      * Mob全国天气预报接口
      */
-    private final static String GET_WEATHER="http://apicloud.mob.com/v1/weather/ip?key=appkey&ip=";
+    private final static String GET_WEATHER="http://apicloud.mob.com/v1/weather/ip?key=14e44fad77f98&ip=";
     
     /**
      * 获取客户端IP地址
@@ -24,7 +24,9 @@ public class IPInfoUtil {
      * @return
      */
     public static String getIpAddr(HttpServletRequest request) {
-        String ip = request.getHeader("x-forwarded-for");
+        // TODO: 2018/3/10 IP地址修改 
+//        String ip = request.getHeader("x-forwarded-for");
+        String ip = "223.167.198.219";
         if (ip == null || ip.length() == 0 || "unknown".equalsIgnoreCase(ip)) {
             ip = request.getHeader("Proxy-Client-IP");
         }
@@ -69,6 +71,20 @@ public class IPInfoUtil {
             }catch (Exception e){
                 e.printStackTrace();
             }
+            return result;
+        }
+        return null;
+    }
+
+    /**
+     * 获取IP返回地理天气信息
+     * @param ip ip地址
+     * @return
+     */
+    public static String getIpInfo(String ip){
+        if(null != ip){
+            String url = GET_WEATHER + ip;
+            String result=HttpUtil.sendGet(url);
             return result;
         }
         return null;

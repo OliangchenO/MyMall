@@ -89,10 +89,17 @@
     <!--配置资源映射-->
     <mvc:resources mapping="/lib/**" location="/lib/"/>
     <mvc:resources mapping="/static/**" location="/static/"/>
+    <mvc:resources mapping="/temp/**" location="/temp/"/>
+    <mvc:resources mapping="/icon/**" location="/icon/"/>
+    <mvc:resources mapping="/upload/**" location="/upload/"/>
 
     <!-- 引用dubbo服务 -->
     <dubbo:application name="MyMall-Manager-Web"/>
     <dubbo:registry protocol="zookeeper" address="127.0.0.1:2181"/>
     <dubbo:reference interface="com.lc.manager.service.UserService" id="userService"/>
     <dubbo:reference interface="com.lc.manager.service.SystemService" id="systemService"/>
+    <dubbo:reference interface="com.lc.manager.service.MemberService" id="memberService"/>
+    <dubbo:reference interface="com.lc.manager.service.OrderService" id="orderService"/>
+    <dubbo:reference interface="com.lc.manager.service.ItemService" id="itemService"/>
+    <dubbo:reference interface="com.lc.manager.service.ContentCatService" id="contentCatService"/>
 </beans>
