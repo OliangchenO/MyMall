@@ -27,4 +27,11 @@ public interface TbItemMapper {
     int updateByPrimaryKeySelective(TbItem record);
 
     int updateByPrimaryKey(TbItem record);
+
+    List<TbItem> selectItemByCondition(@Param("cid") int cid,@Param("search") String search,
+                                       @Param("orderCol") String orderCol,@Param("orderDir") String orderDir);
+
+    List<TbItem> selectItemByMultiCondition(@Param("cid") int cid,@Param("search") String search,@Param("minDate") String minDate,
+                                            @Param("maxDate") String maxDate,@Param("orderCol") String orderCol,
+                                            @Param("orderDir") String orderDir);
 }

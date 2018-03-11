@@ -1,6 +1,6 @@
 package com.lc.manager.service.impl;
 
-import com.lc.common.MyMallException;
+import com.lc.common.exception.MyMallException;
 import com.lc.manager.mapper.TbOrderMapper;
 import com.lc.manager.pojo.TbOrderExample;
 import com.lc.manager.service.OrderService;

@@ -200,7 +200,6 @@ function layer_show(title,url,w,h){
 		area: [w+'px', h +'px'],
 		fix: false, //不固定
 		maxmin: true,
-		shade:0.4,
 		title: title,
 		content: url
 	});

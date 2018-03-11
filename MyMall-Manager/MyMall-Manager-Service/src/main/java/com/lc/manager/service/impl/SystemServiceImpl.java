@@ -5,7 +5,7 @@ import com.lc.manager.mapper.TbLogMapper;
 import com.lc.manager.mapper.TbOrderItemMapper;
 import com.lc.manager.pojo.*;
 import com.lc.manager.service.SystemService;
-import com.lc.common.MyMallException;
+import com.lc.common.exception.MyMallException;
 import com.lc.manager.mapper.TbShiroFilterMapper;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;

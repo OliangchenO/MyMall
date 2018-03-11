@@ -102,4 +102,5 @@
     <dubbo:reference interface="com.lc.manager.service.OrderService" id="orderService"/>
     <dubbo:reference interface="com.lc.manager.service.ItemService" id="itemService"/>
     <dubbo:reference interface="com.lc.manager.service.ContentCatService" id="contentCatService"/>
+    <dubbo:reference interface="com.lc.manager.service.ContentService" id="contentService"/>
 </beans>

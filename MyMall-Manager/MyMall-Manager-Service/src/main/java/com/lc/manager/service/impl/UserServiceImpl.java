@@ -1,7 +1,7 @@
 package com.lc.manager.service.impl;
 
 import com.lc.manager.service.UserService;
-import com.lc.common.MyMallException;
+import com.lc.common.exception.MyMallException;
 import com.lc.manager.mapper.TbPermissionMapper;
 import com.lc.manager.mapper.TbRoleMapper;
 import com.lc.manager.mapper.TbRolePermMapper;
