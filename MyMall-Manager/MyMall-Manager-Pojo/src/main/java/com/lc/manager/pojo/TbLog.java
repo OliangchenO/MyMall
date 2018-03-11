@@ -1,8 +1,9 @@
 package com.lc.manager.pojo;
 
+import java.io.Serializable;
 import java.util.Date;
 
-public class TbLog {
+public class TbLog implements Serializable {
     private Integer id;
 
     private String name;

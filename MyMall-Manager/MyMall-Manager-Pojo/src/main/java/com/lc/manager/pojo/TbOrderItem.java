@@ -1,6 +1,8 @@
 package com.lc.manager.pojo;
 
-public class TbOrderItem {
+import java.io.Serializable;
+
+public class TbOrderItem implements Serializable {
     private String id;
 
     private String itemId;
@@ -16,6 +18,16 @@ public class TbOrderItem {
     private Long totalFee;
 
     private String picPath;
+
+    private int total;
+
+    public int getTotal() {
+        return total;
+    }
+
+    public void setTotal(int total) {
+        this.total = total;
+    }
 
     public String getId() {
         return id;

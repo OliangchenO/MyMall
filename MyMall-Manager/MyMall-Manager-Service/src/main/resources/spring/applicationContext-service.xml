@@ -19,4 +19,8 @@
     <!-- 声明需要暴露的服务接口 -->
     <dubbo:service interface="com.lc.manager.service.UserService" ref="userServiceImpl" timeout="10000"/>
     <dubbo:service interface="com.lc.manager.service.SystemService" ref="systemServiceImpl" timeout="10000"/>
+    <dubbo:service interface="com.lc.manager.service.MemberService" ref="memberServiceImpl" timeout="10000"/>
+    <dubbo:service interface="com.lc.manager.service.OrderService" ref="orderServiceImpl" timeout="10000"/>
+    <dubbo:service interface="com.lc.manager.service.ItemService" ref="itemServiceImpl" timeout="10000"/>
+    <dubbo:service interface="com.lc.manager.service.ContentCatService" ref="contentCatServiceImpl" timeout="10000"/>
 </beans>

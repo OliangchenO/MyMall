@@ -1,6 +1,8 @@
 package com.lc.manager.pojo;
 
-public class TbBase {
+import java.io.Serializable;
+
+public class TbBase implements Serializable {
     private Integer id;
 
     private String webName;
