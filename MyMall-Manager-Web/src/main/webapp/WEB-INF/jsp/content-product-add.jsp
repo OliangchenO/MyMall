@@ -102,7 +102,7 @@
     $("#categoryId").val(parent.cid);
 
     function chooseProduct(){
-        layer_show("选择展示商品","choose-product",900,450);
+        layer_show("选择展示商品","choose-product",950,600);
     }
 
     function setIdAndTitle(id,title){

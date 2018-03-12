@@ -1,11 +1,23 @@
 package com.lc.manager.pojo;
 
-public class TbRole {
+import java.io.Serializable;
+
+public class TbRole implements Serializable {
     private Integer id;
 
     private String name;
 
     private String description;
+
+    private Integer[] roles;
+
+    public Integer[] getRoles() {
+        return roles;
+    }
+
+    public void setRoles(Integer[] roles) {
+        this.roles = roles;
+    }
 
     public Integer getId() {
         return id;

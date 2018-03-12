@@ -18,7 +18,7 @@ import java.util.List;
 @RestController
 @Api(description = "内容分类信息")
 public class ContentCatController {
-    private final static Logger log= LoggerFactory.getLogger(DtoUtil.class);
+    private final static Logger log= LoggerFactory.getLogger(ContentCatController.class);
     @Autowired
     private ContentCatService contentCatService;
 

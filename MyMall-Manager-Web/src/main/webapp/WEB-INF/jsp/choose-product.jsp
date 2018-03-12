@@ -29,7 +29,7 @@
     }
 </style>
 <body>
-<div style="padding:2vw;padding-top:5vw;">
+<div style="padding:2vw;">
     <table class="table table-border table-bordered table-bg table-hover table-sort" width="100%">
         <thead>
         <tr class="text-c">

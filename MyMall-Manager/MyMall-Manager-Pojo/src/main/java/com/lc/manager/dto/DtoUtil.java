@@ -1,11 +1,39 @@
 package com.lc.manager.dto;
 
 import com.lc.common.pojo.ZTreeNode;
-import com.lc.manager.pojo.TbContent;
-import com.lc.manager.pojo.TbContentCategory;
-import com.lc.manager.pojo.TbItem;
+import com.lc.manager.pojo.*;
 
 public class DtoUtil {
+    public static TbMember MemberDto2Member(MemberDto memberDto){
+
+        TbMember tbMember =new TbMember();
+
+        if(!memberDto.getUsername().isEmpty()){
+            tbMember.setUsername(memberDto.getUsername());
+        }
+        if(!memberDto.getPassword().isEmpty()){
+            tbMember.setPassword(memberDto.getPassword());
+        }
+        if(!memberDto.getPhone().isEmpty()){
+            tbMember.setPhone(memberDto.getPhone());
+        }
+        if(!memberDto.getEmail().isEmpty()){
+            tbMember.setEmail(memberDto.getEmail());
+        }
+        if(!memberDto.getSex().isEmpty()){
+            tbMember.setSex(memberDto.getSex());
+        }
+        if(!memberDto.getDescription().isEmpty()){
+            tbMember.setDescription(memberDto.getDescription());
+        }
+        if(!memberDto.getProvince().isEmpty()){
+            tbMember.setAddress(memberDto.getProvince()+" "
+                    +memberDto.getCity()+" "+memberDto.getDistrict());
+        }
+
+        return tbMember;
+    }
+
     public static ZTreeNode TbContentCategory2ZTreeNode(TbContentCategory tbContentCategory) {
         ZTreeNode zTreeNode =new ZTreeNode();
 
@@ -84,5 +112,34 @@ public class DtoUtil {
         }
 
         return itemDto;
+    }
+
+    public static ImageDto TbImage2ImageDto(TbImage tbImage){
+
+        ImageDto imageDto =new ImageDto();
+
+        imageDto.setId(tbImage.getId());
+        imageDto.setImage(tbImage.getImage());
+        imageDto.setImageMobile(tbImage.getImageMobile());
+        imageDto.setLink(tbImage.getLink());
+        imageDto.setCreated(tbImage.getCreated());
+        imageDto.setUpdated(tbImage.getUpdated());
+
+        return imageDto;
+    }
+
+    public static ZTreeNode TbItemCat2ZTreeNode(TbItemCat tbItemCat){
+
+        ZTreeNode zTreeNode =new ZTreeNode();
+
+        zTreeNode.setId(Math.toIntExact(tbItemCat.getId()));
+        zTreeNode.setStatus(tbItemCat.getStatus());
+        zTreeNode.setSortOrder(tbItemCat.getSortOrder());
+        zTreeNode.setName(tbItemCat.getName());
+        zTreeNode.setpId(Math.toIntExact(tbItemCat.getParentId()));
+        zTreeNode.setIsParent(tbItemCat.getIsParent());
+        zTreeNode.setRemark(tbItemCat.getRemark());
+
+        return zTreeNode;
     }
 }

@@ -1,6 +1,8 @@
 package com.lc.manager.pojo;
 
-public class TbPermission {
+import java.io.Serializable;
+
+public class TbPermission implements Serializable {
     private Integer id;
 
     private String name;

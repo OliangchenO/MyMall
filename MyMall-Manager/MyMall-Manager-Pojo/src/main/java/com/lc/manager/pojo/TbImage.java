@@ -1,8 +1,9 @@
 package com.lc.manager.pojo;
 
+import java.io.Serializable;
 import java.util.Date;
 
-public class TbImage {
+public class TbImage implements Serializable {
     private Integer id;
 
     private Integer categoryId;

@@ -24,4 +24,6 @@
     <dubbo:service interface="com.lc.manager.service.ItemService" ref="itemServiceImpl" timeout="10000"/>
     <dubbo:service interface="com.lc.manager.service.ContentCatService" ref="contentCatServiceImpl" timeout="10000"/>
     <dubbo:service interface="com.lc.manager.service.ContentService" ref="contentServiceImpl" timeout="10000"/>
+    <dubbo:service interface="com.lc.manager.service.ContentImageService" ref="contentImageServiceImpl" timeout="10000"/>
+    <dubbo:service interface="com.lc.manager.service.ItemCatService" ref="itemCatServiceImpl" timeout="10000"/>
 </beans>

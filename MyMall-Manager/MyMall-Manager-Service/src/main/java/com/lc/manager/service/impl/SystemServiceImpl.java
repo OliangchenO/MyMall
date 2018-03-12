@@ -1,5 +1,6 @@
 package com.lc.manager.service.impl;
 
+import com.lc.common.pojo.DataTablesResult;
 import com.lc.manager.mapper.TbBaseMapper;
 import com.lc.manager.mapper.TbLogMapper;
 import com.lc.manager.mapper.TbOrderItemMapper;
@@ -47,12 +48,55 @@ public class SystemServiceImpl implements SystemService {
     }
 
     @Override
+    public DataTablesResult getLogList() {
+
+        DataTablesResult result=new DataTablesResult();
+        TbLogExample example=new TbLogExample();
+        List<TbLog> list=tbLogMapper.selectByExample(example);
+        if(list==null){
+            throw new MyMallException("获取日志列表失败");
+        }
+        result.setSuccess(true);
+        result.setData(list);
+        return result;
+    }
+
+    @Override
+    public Long countLog() {
+
+        TbLogExample example=new TbLogExample();
+        Long result=tbLogMapper.countByExample(example);
+        if(result==null){
+            throw new MyMallException("获取日志数量失败");
+        }
+        return result;
+    }
+
+    @Override
+    public int deleteLog(int id) {
+
+        if(tbLogMapper.deleteByPrimaryKey(id)!=1){
+            throw new MyMallException("删除日志失败");
+        }
+        return 1;
+    }
+
+    @Override
     public TbBase getBase() {
         TbBase tbBase=tbBaseMapper.selectByPrimaryKey(Integer.valueOf(BASE_ID));
         if(tbBase==null){
             throw new MyMallException("获取基础设置失败");
         }
         return tbBase;
+    }
+
+    @Override
+    public int updateBase(TbBase tbBase) {
+
+        if(tbBaseMapper.updateByPrimaryKey(tbBase)!=1){
+            throw new MyMallException("更新基础设置失败");
+        }
+        return 1;
     }
 
     @Override
@@ -69,5 +113,41 @@ public class SystemServiceImpl implements SystemService {
             return tbOrderItem;
         }
         return list.get(0);
+    }
+
+    @Override
+    public Long countShiroFilter() {
+        TbShiroFilterExample example=new TbShiroFilterExample();
+        Long result=tbShiroFilterMapper.countByExample(example);
+        if(result==null){
+            throw new MyMallException("获取shiro过滤链数目失败");
+        }
+        return result;
+    }
+
+    @Override
+    public int addShiroFilter(TbShiroFilter tbShiroFilter) {
+
+        if(tbShiroFilterMapper.insert(tbShiroFilter)!=1){
+            throw new MyMallException("添加shiro过滤链失败");
+        }
+        return 1;
+    }
+
+    @Override
+    public int updateShiroFilter(TbShiroFilter tbShiroFilter) {
+
+        if(tbShiroFilterMapper.updateByPrimaryKey(tbShiroFilter)!=1){
+            throw new MyMallException("更新shiro过滤链失败");
+        }
+        return 1;
+    }
+
+    @Override
+    public int deleteShiroFilter(int id) {
+        if(tbShiroFilterMapper.deleteByPrimaryKey(id)!=1){
+            throw new MyMallException("删除shiro过滤链失败");
+        }
+        return 1;
     }
 }

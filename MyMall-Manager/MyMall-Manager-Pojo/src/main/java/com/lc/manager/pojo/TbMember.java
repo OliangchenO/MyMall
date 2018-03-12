@@ -1,8 +1,9 @@
 package com.lc.manager.pojo;
 
+import java.io.Serializable;
 import java.util.Date;
 
-public class TbMember {
+public class TbMember implements Serializable {
     private Long id;
 
     private String username;
